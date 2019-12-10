@@ -1,4 +1,5 @@
-# 100 Days Of Code - Log
+# Kaylie Kerr-Daily Log
+## 100 Days of Code
 
 <!--### Day 0: February 30, 2016 (Example 1)-->
 <!--##### (delete me or comment me out)-->
@@ -19,7 +20,7 @@
 <!--**Link(s) to work**: [Calculator App](http://www.example.com)-->
 
 
-### Day 1: December 10 2019, Tuesday
+### Day 1: December 10, 2019- Tuesday
 
 **Today's Progress**: I'm finally figuring out GitHub!
 

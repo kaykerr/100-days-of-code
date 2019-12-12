@@ -28,3 +28,13 @@
 
 **Link(s) to work**
 1. [GitHub Learning Lab](https://lab.github.com/)
+
+### Day 2: December 11, 2019- Wednesday
+
+**Today's Progress**: Started learning Javascript finally
+
+**Thoughts** While I have tried my hand at Javascript before (front-end class), the language has never really made sense to me. Because of this, I have been putting off learning Javascript and have instead been playing around with CSS (which is my favorite, it's where I get to design and make things look good). I finally took the plunge today and started Colt Steele and Stephen Grider's course on Udemy called *The New Modern Javascript Bootcamp (2020)*. So far, everything (except NaN and -0... what the heck is up with that??) is making a lot more sense so I am hopeful that their teaching style is right for me!
+
+**Link(s) to work**
+1. [The New Modern Javascript Bootcamp (2020)](https://www.udemy.com/course/javascript-beginners-complete-tutorial/)
+2. [Tweet Update](https://twitter.com/kkerrdesign/status/1204987250456416257?s=20)
